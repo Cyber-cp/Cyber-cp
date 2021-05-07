@@ -27,6 +27,6 @@ A library that allows you to seamlessly integrate questions utilizing checkboxes
 
 [![](https://jitpack.io/v/Cyber-cp/Digidiary.svg)](https://jitpack.io/#Cyber-cp/Digidiary)
 
-##### This app was made for a <a href="https://www.codeday.org/">Codeday</a> competition
+#### This app was made for a <a href="https://www.codeday.org/">Codeday</a> competition
 
 An apps which allows you to record your life events as a digital diary. It also records the dates in which you inputted the events. With a simple UI, this app is for anyone who wants to keep a diary alongside them at anytime. The app also provides a daily activity.
