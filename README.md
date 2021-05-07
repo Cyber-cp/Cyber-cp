@@ -20,7 +20,7 @@ I have many projects I am working on and planning to work on. My main project ri
 
 [![](https://jitpack.io/v/Cyber-cp/Checkbox-Questions.svg)](https://jitpack.io/#Cyber-cp/Checkbox-Questions)
 
-A library that allows you to seamlessly integrate questions utilizing checkboxes that allow for a great user expierience. There are multiple types of questions that help you make simple questionaries to quizzes with multiple choice and multiple answer questions. 
+A library that allows you to integrate questions utilizing checkboxes that allow for a great user experience. There is full customization of the question views, allowing for seamless integration of a question into your apps UI. There are multiple types of questions that help you make simple questionaries to quizzes with multiple choice and multiple answer questions. 
 
 
 ### Digidiary
